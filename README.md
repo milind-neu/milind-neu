@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 📱 I consider myself a promising iOS app developer 😉
 - 🧑🏻‍💻 I’m currently working at Nok Nok labs as a Software Engineer Intern
