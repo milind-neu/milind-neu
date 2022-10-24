@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**milind-neu/milind-neu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 I consider myself a promising iOS app developer 😉
+- 🧑🏻‍💻 I’m currently working at Nok Nok labs as a Software Engineer Intern
+- 🎓 I’m currently pursuing Mastere of Science in Information Systems at Northeastern University
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack:
+  • Languages: Swift 5 | Objective C |  Python | Java
+  • Tools & Technologies: XCode | RxSwift | Cocoa Touch framework | Postman | Oracle SQL Developer | Android Studio | Sourcetree |
+  Microsoft Office Suite | Visual Studio | Burpsuite
+  • Web Technologies: JavaScript | React.js | Node.js | HTML5 | CSS3 | MongoDB
+  • Database/Storage: Oracle SQL | PostgreSQL | MySQL | CoreData | SQLite
+  • Version control: Git | SVN
