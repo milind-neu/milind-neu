@@ -1,8 +1,7 @@
 # Hi there 👋
 
 - 📱 I consider myself a promising iOS app developer 😉
-- 🧑🏻‍💻 I’m currently working at Nok Nok labs as a Software Engineer Intern
-- 🎓 I’m currently pursuing Mastere of Science in Information Systems at Northeastern University
+- 🎓 I’m currently pursuing Masters of Science in Information Systems at Northeastern University
 
 ## Tech Stack:
  - Languages: Swift 5 | Objective C |  Python | Java
