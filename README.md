@@ -10,3 +10,5 @@
  - Web Technologies: JavaScript | React.js | Node.js | HTML5 | CSS3 | MongoDB
  - Database/Storage: Oracle SQL | PostgreSQL | MySQL | CoreData | SQLite
  - Version control: Git | SVN
+
+![](https://komarev.com/ghpvc/?username=milind-neu)
